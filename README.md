@@ -1,6 +1,8 @@
 # Race Day Event Registration System
 My answer to CodeAcademy's - Learn JavaScript - Raceday project
 
+ ![Screenshot](https://github.com/Hollis-Brown/Race_Event_Registration/blob/main/raceday_event_registration_screenshot.png)
+
 ---
 
 Welcome to the Race Day Event Registration System! This simple web application simulates a race event registration process where participants can input their age and registration status to receive information about their race details.
