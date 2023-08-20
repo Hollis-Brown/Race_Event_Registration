@@ -50,10 +50,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-This project was inspired by the "Race Day Event Registration System" project from Codecademy's [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) course. The concept and initial code structure were adapted from the course's project, with additional modifications and improvements made by [Hollis-Brown].
+This project was inspired by the "Race Day Event Registration System" project from Codecademy's [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) course. The concept and initial code structure were adapted from the course's project, with additional modifications and improvements made by Hollis-Brown.
 
 Please note that the original concept and code structure are attributed to Codecademy.
 
 ---
 
-Project created by [Hollis-Brown]
+Project created by Hollis-Brown
